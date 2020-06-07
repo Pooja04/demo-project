@@ -1,0 +1,16 @@
+uuid: 06abba7e-8b4d-425b-aa68-a205a2f5a198
+langcode: en
+status: true
+dependencies: {  }
+id: local
+label: Local
+description: ''
+folder: ../config/envs/local
+module: {  }
+theme: {  }
+blacklist:
+  - shield.settings
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 1

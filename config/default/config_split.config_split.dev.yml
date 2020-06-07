@@ -1,0 +1,16 @@
+uuid: f9dc6c00-4009-418e-a7c8-421146cd82de
+langcode: en
+status: true
+dependencies: {  }
+id: dev
+label: Dev
+description: ''
+folder: ../config/envs/dev
+module: {  }
+theme: {  }
+blacklist:
+  - shield.settings
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 1

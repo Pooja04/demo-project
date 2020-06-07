@@ -1,15 +1,11 @@
-shield_enable: true
+shield_enable: false
 credential_provider: shield
 credentials:
   shield:
-    user: ''
-    pass: ''
-  key:
-    user: ''
-    pass_key: ''
-  multikey:
-    user_pass_key: ''
+    user: shieldname
+    pass: shieldpass
 print: Hello!
 allow_cli: true
 _core:
   default_config_hash: yHBuI_J_kdrugm0JRNsxHODZ0qQyPzejI6r1ZPacK5Q
+whitelist: ''
