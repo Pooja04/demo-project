@@ -1,0 +1,6 @@
+local:
+    root: /var/www/demo-project/docroot
+    uri: 'http://local.demo-project.com'
+    host: local.demo-project.com
+    user: vagrant
+    ssh: { options: '-o StrictHostKeyChecking=no -o PasswordAuthentication=no -i $HOME/.vagrant.d/insecure_private_key' }
