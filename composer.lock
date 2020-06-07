@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c7a94056dc2a6cdd4760d0f23c832633",
+    "content-hash": "bd99c86538cfe4560a9b623459634fff",
     "packages": [
         {
             "name": "acquia/blt",
